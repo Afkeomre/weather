@@ -2,7 +2,7 @@
 
 This is a simple weather search application that allows users to input a city name and receive the current weather conditions for that location. The user interface is designed with a responsive layout and includes a search bar, error messages for invalid inputs, and a visual display of the weather data.
 
-## Demo 🌐
+## Website 🌐
 You can try the Weather Search Application online [here](https://afkeomre.github.io/weather/).
 
 ## Features ✔️
