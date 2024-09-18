@@ -31,6 +31,11 @@ You can try the Weather Search Application online [here](https://afkeomre.github
 |:--:|:--:|:--:|:--:|
 | Main screen | Warm theme | Cold theme | Error message |
 
+## 🛠 Technologies Used
+- **Vue.js**: This project is built using Vue.js, a popular JavaScript framework for building user interfaces. Vue.js is known for its simplicity and flexibility, making it a great choice for developing responsive and interactive web applications like this weather search app.
+- **OpenWeatherMap API**: The weather data is fetched from the OpenWeatherMap API. OpenWeatherMap provides a robust and easy-to-use API that offers weather information such as temperature, humidity, wind speed, and more. This API is free to use (with limits) and supports weather data retrieval for cities worldwide, making it ideal for real-time weather updates in this application.
+To learn more about the OpenWeatherMap API, visit [their official website](https://openweathermap.org/).
+
 ## ⚙️ Project setup 
 ```
 npm install
